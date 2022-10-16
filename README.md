@@ -10,3 +10,8 @@ Translate user stories to a modular design
 Who is your user?
 What are the basic user stories?
 ## Define MVP and user stories
+use api to analyze people what kind of products or thing people are interested in
+from the browsing history and the number of likes to infer the user's liking
+## Who is your user?
+people who want to make friends
+people can use this social media analyzer to find have same hobbies and interests people and make friends with them
