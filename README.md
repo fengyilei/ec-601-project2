@@ -15,3 +15,4 @@ from the browsing history and the number of likes to infer the user's liking
 ## Who is your user?
 people who want to make friends
 people can use this social media analyzer to find have same hobbies and interests people and make friends with them
+![image](https://user-images.githubusercontent.com/113853377/208554919-d0ea1842-d028-4179-943d-381e1fca3ac8.png)
